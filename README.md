@@ -1,4 +1,4 @@
 # video-chat-application
-one to one video chat web application using WebRTC and Html
+one to one video chat web application using Java WebRTC and Html
 
    
