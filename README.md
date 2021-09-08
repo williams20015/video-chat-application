@@ -1,4 +1,4 @@
 # video-chat-application
-one to one video chat web application to chat between friends
+one to one video chat web application using WebRTC and Html
 
-   <link> https://simple-videochat.herokuapp.com/ <link>
+   
