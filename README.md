@@ -1,5 +1,5 @@
 # Video-chat-application WebRTC
 
-By using Simple-peer it connects one to one video chat web application.
+By using Simple-peer, this web app connects one to one video chat.
 
    
